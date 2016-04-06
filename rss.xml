@@ -4,7 +4,7 @@
         <description><![CDATA[Ireland's Premier Tipping Site]]></description>
         <link>https://thegrid.ai/betsgalore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 01:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 22:23:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betsgalore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/betsgalore/3ca26a86-a2b0-4da7-853f-fd2977d66a35/index.html</link>
             <guid isPermaLink="false">3ca26a86-a2b0-4da7-853f-fd2977d66a35</guid>
             <pubDate>Wed, 06 Apr 2016 01:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BETSGALORE.IE]]></title>
+            <description><![CDATA[<article><h1>BETSGALORE.IE</h1><p>Sports and Betting Tips</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bab8b292a01b643aab1a28defab0cf5172ea8021.jpg"></article>]]></description>
+            <link>https://thegrid.ai/betsgalore/betsgaloreie/index.html</link>
+            <guid isPermaLink="false">796c785e-81d7-480e-9ecb-5c14d6cc8618</guid>
+            <pubDate>Wed, 06 Apr 2016 22:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
